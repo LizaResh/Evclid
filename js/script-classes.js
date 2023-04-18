@@ -1,0 +1,1 @@
+"use strict";new Accordion(".accordion-list",{elementClass:"accordion",triggerClass:"accordion__visible",panelClass:"accordion__hidden",activeClass:"accordion--active"});
